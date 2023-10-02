@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.exe
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.deps.json
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.runtimeconfig.json
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.dll
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\bin\Debug\net6.0\OROperator.pdb
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.dll
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\refint\OROperator.dll
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.pdb
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\OROperator.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\OROperator\obj\Debug\net6.0\ref\OROperator.dll

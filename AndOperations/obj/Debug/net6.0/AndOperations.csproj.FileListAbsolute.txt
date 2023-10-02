@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\bin\Debug\net6.0\AndOperations.exe
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\bin\Debug\net6.0\AndOperations.deps.json
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\bin\Debug\net6.0\AndOperations.runtimeconfig.json
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\bin\Debug\net6.0\AndOperations.dll
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\bin\Debug\net6.0\AndOperations.pdb
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.dll
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\refint\AndOperations.dll
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.pdb
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\AndOperations.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\AndOperations\obj\Debug\net6.0\ref\AndOperations.dll

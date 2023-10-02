@@ -1,0 +1,4 @@
+C:\Users\matum\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net6.0\Week5LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net6.0\Week5LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net6.0\Week5LogicalOperators.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net6.0\Week5LogicalOperators.csproj.CoreCompileInputs.cache
